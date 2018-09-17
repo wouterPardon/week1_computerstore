@@ -1,3 +1,8 @@
+import be.pxl.computerstore.hardware.ComputerCase;
+import be.pxl.computerstore.hardware.Processor;
+import be.pxl.computerstore.hardware.builder.ComputerCaseBuilder;
+import be.pxl.computerstore.hardware.builder.DimensionBuilder;
+import be.pxl.computerstore.hardware.builder.ProcessorBuilder;
 import org.junit.Test;
 
 import static org.junit.Assert.assertTrue;

@@ -1,4 +1,5 @@
 import be.pxl.computerstore.hardware.ComputerCase;
+import be.pxl.computerstore.hardware.builder.ComputerCaseBuilder;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
