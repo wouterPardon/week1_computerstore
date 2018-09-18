@@ -8,7 +8,7 @@ public abstract class Peripheral extends ComputerComponent {
 
     @Override
     public String toString(){
-        String className = this.getClass().toString().substring(36);
+        String className = this.getClass().toString().substring(this.getClass().toString().lastIndexOf('.') + 1);
         return className + " " +  super.toString();
     }
 }

@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6fdc5b3-1f36-48c2-a9bf-3a2f57e6dea8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/be/pxl/computerstore/hardware/GamingController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/pxl/computerstore/hardware/Keyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/pxl/computerstore/hardware/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/pxl/computerstore/util/TooManyPeripheralsException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/be/pxl/computerstore/data/Warehouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/pxl/computerstore/data/Warehouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/be/pxl/computerstore/gui/ComputerConfiguratorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/pxl/computerstore/gui/ComputerConfiguratorController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ComputerCaseArticleNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ComputerCaseArticleNumberTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ComputerCaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ComputerCaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ComputerComponentFullDescriptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ComputerComponentFullDescriptionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ComputerComponentToStringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ComputerComponentToStringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ComputerSystemComputableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ComputerSystemComputableTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ComputerSystemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ComputerSystemTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ProcessorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ProcessorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,7 +35,7 @@
       <file leaf-file-name="ComputerSystemTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/ComputerSystemTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
+            <state relative-caret-position="884">
               <caret line="62" selection-start-line="62" selection-end-line="62" />
             </state>
           </provider>
@@ -56,7 +44,7 @@
       <file leaf-file-name="ComputerSystem.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/be/pxl/computerstore/hardware/ComputerSystem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
+            <state relative-caret-position="1190">
               <caret line="87" column="48" selection-start-line="87" selection-start-column="48" selection-end-line="87" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -74,14 +62,12 @@
                 <element signature="e#2022#2023#0" expanded="true" />
                 <element signature="e#2066#2067#0" expanded="true" />
                 <element signature="e#2100#2101#0" expanded="true" />
-                <element signature="e#2548#2549#0" expanded="true" />
-                <element signature="e#2593#2594#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ComputerSystemConfiguratorApp.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ComputerSystemConfiguratorApp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/be/pxl/computerstore/ComputerSystemConfiguratorApp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -90,31 +76,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LauncherImpl.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LauncherImpl.java" pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/javafx-src.zip!/com/sun/javafx/application/LauncherImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5746">
+            <state relative-caret-position="1359">
               <caret line="388" selection-start-line="388" selection-end-line="388" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Processor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/be/pxl/computerstore/hardware/Processor.java">
+      <file leaf-file-name="ComputerConfiguratorController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/be/pxl/computerstore/gui/ComputerConfiguratorController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="-35">
+              <caret line="103" column="69" selection-start-line="103" selection-start-column="69" selection-end-line="103" selection-end-column="69" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WebCam.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/be/pxl/computerstore/hardware/WebCam.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
-            </state>
-          </provider>
+      <file leaf-file-name="week1_computerstore.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week1_computerstore.iml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="ComputerComponentToStringTest.java" pinned="false" current-in-tab="false">
@@ -129,11 +114,11 @@
       <file leaf-file-name="ComputerComponent.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/be/pxl/computerstore/hardware/ComputerComponent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
+            <state relative-caret-position="1071">
               <caret line="78" column="48" selection-start-line="78" selection-start-column="48" selection-end-line="78" selection-end-column="48" />
               <folding>
                 <element signature="e#1688#1689#0" expanded="true" />
-                <element signature="e#1737#1738#0" expanded="true" />
+                <element signature="e#1745#1746#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -204,6 +189,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
@@ -224,16 +210,10 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="computerstore" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="week1_computerstore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week1_computerstore" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -264,7 +244,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ComputerSystemConfiguratorApp">
+  <component name="RunManager" selected="JUnit.All in week1_computerstore">
     <configuration name="ComputerSystemConfiguratorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="be.pxl.computerstore.ComputerSystemConfiguratorApp" />
       <module name="week1_computerstore" />
@@ -394,8 +374,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ComputerSystemConfiguratorApp" />
         <item itemvalue="JUnit.All in week1_computerstore" />
+        <item itemvalue="Application.ComputerSystemConfiguratorApp" />
         <item itemvalue="JUnit.ComputerSystemComputableTest" />
         <item itemvalue="JUnit.ComputerSystemTest" />
         <item itemvalue="JUnit.ComputerComponentToStringTest" />
@@ -414,16 +394,12 @@
       <updated>1537125335628</updated>
       <workItem from="1537125337231" duration="1838000" />
       <workItem from="1537172183814" duration="11019000" />
+      <workItem from="1537196770406" duration="70000" />
+      <workItem from="1537197126788" duration="394000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ComputerComponentToStringTest - 2018.09.17 at 16h 48m 09s.xml">
-      <configuration name="ComputerComponentToStringTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ComputerComponentToStringTest - 2018.09.17 at 16h 48m 43s.xml">
-      <configuration name="ComputerComponentToStringTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ComputerComponentToStringTest - 2018.09.17 at 16h 49m 00s.xml">
       <configuration name="ComputerComponentToStringTest" configurationId="JUnit" />
     </history-entry>
@@ -448,9 +424,15 @@
     <history-entry file="All_in_week1_computerstore - 2018.09.17 at 17h 00m 02s.xml">
       <configuration name="All in week1_computerstore" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_week1_computerstore - 2018.09.17 at 17h 06m 44s.xml">
+      <configuration name="All in week1_computerstore" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_week1_computerstore - 2018.09.17 at 17h 18m 36s.xml">
+      <configuration name="All in week1_computerstore" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12857000" />
+    <option name="totallyTimeSpent" value="13321000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -465,11 +447,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32943678" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22954305" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20572917" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20572917" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -492,6 +474,115 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/be/pxl/computerstore/hardware/ComputerComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="78" column="48" selection-start-line="78" selection-start-column="48" selection-end-line="78" selection-end-column="48" />
+          <folding>
+            <element signature="e#1688#1689#0" expanded="true" />
+            <element signature="e#1745#1746#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/javafx-src.zip!/com/sun/javafx/application/LauncherImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6596">
+          <caret line="388" selection-start-line="388" selection-end-line="388" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/pxl/computerstore/hardware/Peripheral.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ComputerSystemComputableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ComputerSystemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/pxl/computerstore/hardware/ComputerSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1479">
+          <caret line="87" column="48" selection-start-line="87" selection-start-column="48" selection-end-line="87" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1547#1548#0" expanded="true" />
+            <element signature="e#1579#1580#0" expanded="true" />
+            <element signature="e#1632#1633#0" expanded="true" />
+            <element signature="e#1674#1675#0" expanded="true" />
+            <element signature="e#1711#1712#0" expanded="true" />
+            <element signature="e#1742#1743#0" expanded="true" />
+            <element signature="e#1792#1793#0" expanded="true" />
+            <element signature="e#1832#1833#0" expanded="true" />
+            <element signature="e#1877#1878#0" expanded="true" />
+            <element signature="e#1912#1913#0" expanded="true" />
+            <element signature="e#1974#1975#0" expanded="true" />
+            <element signature="e#2022#2023#0" expanded="true" />
+            <element signature="e#2066#2067#0" expanded="true" />
+            <element signature="e#2100#2101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/pxl/computerstore/ComputerSystemConfiguratorApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/pxl/computerstore/hardware/Processor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/pxl/computerstore/hardware/WebCam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ComputerComponentToStringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/pxl/computerstore/hardware/ComputerComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="78" column="48" selection-start-line="78" selection-start-column="48" selection-end-line="78" selection-end-column="48" />
+          <folding>
+            <element signature="e#1688#1689#0" expanded="true" />
+            <element signature="e#1745#1746#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/javafx-src.zip!/com/sun/javafx/application/LauncherImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6596">
+          <caret line="388" selection-start-line="388" selection-end-line="388" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/ComputerCaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -534,10 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -552,9 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -563,22 +647,8 @@
         <state relative-caret-position="391">
           <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
           <folding>
-            <element signature="e#503#504#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#576#577#0" expanded="true" />
-            <element signature="e#612#613#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-            <element signature="e#670#671#0" expanded="true" />
-            <element signature="e#710#711#0" expanded="true" />
-            <element signature="e#742#743#0" expanded="true" />
-            <element signature="e#774#775#0" expanded="true" />
-            <element signature="e#802#803#0" expanded="true" />
-            <element signature="e#844#845#0" expanded="true" />
-            <element signature="e#878#879#0" expanded="true" />
-            <element signature="e#1449#1450#0" expanded="true" />
-            <element signature="e#1475#1476#0" expanded="true" />
-            <element signature="e#1457#1458#0" expanded="true" />
-            <element signature="e#1483#1484#0" expanded="true" />
+            <element signature="e#1688#1689#0" expanded="true" />
+            <element signature="e#1745#1746#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -587,9 +657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="986">
           <caret line="58" column="40" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -611,9 +678,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -635,9 +699,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="33" column="81" selection-start-line="33" selection-start-column="81" selection-end-line="33" selection-end-column="81" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -645,10 +706,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -656,16 +713,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/be/pxl/computerstore/gui/ComputerConfiguratorController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="103" column="69" selection-start-line="103" selection-start-column="69" selection-end-line="103" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -701,10 +748,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="33" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -752,11 +795,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/be/pxl/computerstore/hardware/ComputerComponent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
+        <state relative-caret-position="1071">
           <caret line="78" column="48" selection-start-line="78" selection-start-column="48" selection-end-line="78" selection-end-column="48" />
           <folding>
             <element signature="e#1688#1689#0" expanded="true" />
-            <element signature="e#1737#1738#0" expanded="true" />
+            <element signature="e#1745#1746#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -777,7 +820,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/ComputerSystemTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
+        <state relative-caret-position="884">
           <caret line="62" selection-start-line="62" selection-end-line="62" />
         </state>
       </provider>
@@ -791,7 +834,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/be/pxl/computerstore/hardware/ComputerSystem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
+        <state relative-caret-position="1190">
           <caret line="87" column="48" selection-start-line="87" selection-start-column="48" selection-end-line="87" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -809,23 +852,34 @@
             <element signature="e#2022#2023#0" expanded="true" />
             <element signature="e#2066#2067#0" expanded="true" />
             <element signature="e#2100#2101#0" expanded="true" />
-            <element signature="e#2548#2549#0" expanded="true" />
-            <element signature="e#2593#2594#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/be/pxl/computerstore/ComputerSystemConfiguratorApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/javafx-src.zip!/com/sun/javafx/application/LauncherImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5746">
+        <state relative-caret-position="1359">
           <caret line="388" selection-start-line="388" selection-end-line="388" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/pxl/computerstore/gui/ComputerConfiguratorController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-35">
+          <caret line="103" column="69" selection-start-line="103" selection-start-column="69" selection-end-line="103" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1_computerstore.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/pxl/computerstore/ComputerSystemConfiguratorApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
