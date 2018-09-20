@@ -20,7 +20,7 @@ public class ComputerComponent {
 
     private void setArticleNumber() {
         articleNumber = vendor;
-
+        String zeros = "";
         if (articleNumber.length() >= 3){
             articleNumber = articleNumber.substring(0, 3).toUpperCase();
         }else {
@@ -31,19 +31,12 @@ public class ComputerComponent {
 
         articleNumber += "-";
 
-        if(number > 9){
-            articleNumber += "000" + number;
-        }else if(number > 99){
-            articleNumber += "00" + number;
-        }else if(number > 999){
-            articleNumber += "0" + number;
-        }else if(number > 9999){
-            articleNumber += number;
-        }else {
-            articleNumber += "0000" + number;
+        int numberOffZero = 5 - Integer.toString(number).length();
+        for (int i = 0; i < numberOffZero; i++){
+            zeros += "0";
         }
 
-
+        articleNumber += zeros + number;
     }
 
     public String getVendor() {
